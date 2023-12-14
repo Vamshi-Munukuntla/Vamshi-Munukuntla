@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm a Full Stack Data Scientist
+Data Analyst
 
 
 ## 🔗 Links
