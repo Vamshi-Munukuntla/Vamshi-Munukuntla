@@ -14,7 +14,8 @@ Data Analyst
 ## 🛠 Skills
 1. Python
 2. Data Visualization Tools like Pandas, Matplotlib, Seaborn
-3. BI Tools - Tableau
-4. Excel
+3. Streamlit, Dash
+4. BI Tools - Tableau, Power BI
+5. Excel
 
     
